@@ -1,0 +1,120 @@
+Order
+Dairy cream_cheese 1
+Produce oranges 3
+Meat chicken 1
+Order
+Dairy butter 6
+Produce lettuce 8
+Meat chicken 0
+Order
+Dairy kefir 8
+Produce bananas 3
+Meat turkey 0
+Order
+Dairy cream 6
+Produce broccoli 9
+Meat lamb 5
+Order
+Dairy yogurt 8
+Produce blueberries 11
+Meat turkey 3
+Order
+Dairy sour_cream 4
+Produce pomegranite 4
+Meat chicken 1
+Order
+Dairy cream_cheese 5
+Produce pomegranite 9
+Meat beef 2
+Order
+Dairy cream 4
+Produce blueberries 5
+Meat turkey 1
+Order
+Dairy sour_cream 5
+Produce kale 11
+Meat lamb 5
+Order
+Dairy ice_cream 5
+Produce pomegranite 1
+Meat chicken 3
+Order
+Dairy cheddar_cheese 9
+Produce cucumbers 9
+Meat chicken 2
+Order
+Dairy eggs 9
+Produce broccoli 9
+Meat lamb 1
+Order
+Dairy eggs 1
+Produce apples 0
+Meat chicken 2
+Order
+Dairy butter 5
+Produce apples 4
+Meat beef 3
+Order
+Dairy ice_cream 5
+Produce lettuce 2
+Meat beef 0
+Order
+Dairy cream 6
+Produce lettuce 9
+Meat chicken 5
+Order
+Dairy sour_cream 8
+Produce pomegranite 7
+Meat turkey 1
+Order
+Dairy cream 1
+Produce broccoli 4
+Meat beef 5
+Order
+Dairy cream_cheese 9
+Produce grapes 0
+Meat chicken 5
+Order
+Dairy yogurt 8
+Produce broccoli 7
+Meat chicken 2
+Order
+Dairy monterey_jack 0
+Produce brussel_sprouts 0
+Meat lamb 5
+Order
+Dairy ice_cream 9
+Produce broccoli 9
+Meat turkey 1
+Order
+Dairy milk 9
+Produce cucumbers 7
+Meat beef 5
+Order
+Dairy cream_cheese 9
+Produce oranges 5
+Meat beef 4
+Order
+Dairy butter 7
+Produce oranges 10
+Meat beef 0
+Order
+Dairy sour_cream 9
+Produce broccoli 5
+Meat turkey 0
+Order
+Dairy cream_cheese 3
+Produce cucumbers 7
+Meat lamb 0
+Order
+Dairy sour_cream 9
+Produce lettuce 3
+Meat chicken 1
+Order
+Dairy sour_cream 0
+Produce lettuce 11
+Meat lamb 4
+Order
+Dairy sour_cream 1
+Produce grapes 6
+Meat chicken 5
