@@ -137,7 +137,7 @@ public class GroceryManager {
 	 * equal to the parameter item name, it goes into a try statement where item of
 	 * type GroceryItem is set to a GroceryItem cast type of the item and then item
 	 * is returned. It also catches any exceptions thrown and prints them. If item
-	 * is never found, down below it returns null.
+	 * is never found, down below it returns null.   
 	 * 
 	 * @param Item_Name
 	 * @return item, null
