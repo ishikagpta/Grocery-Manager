@@ -1,6 +1,6 @@
 /*
 * CSS 143 Final Assignment: Grocery Manager
-* Instructor: Lesley Kalmin
+* Instructor: Lesley Kalmin  
 */
 import java.io.FileInputStream;
 import java.util.ArrayList;
