@@ -8,7 +8,7 @@
 /**
  * 
  * @version 1.0 Dairy extends GroceryItem and creates and stores all properties
- *          of Dairy.
+ *          of Dairy. 
  *
  */
 public class Dairy extends GroceryItem {
