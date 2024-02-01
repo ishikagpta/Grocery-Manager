@@ -78,7 +78,7 @@ public class Meat extends GroceryItem {
 	/**
 	 * This overridden toString calls the toString of the base class. It then
 	 * concatenates it with formatted String that prints isGround using argument
-	 * given by Accessor method getIsGround.
+	 * given by Accessor method getIsGround.  
 	 */
 	public String toString() {
 		return super.toString() + String.format("isGround: %-20b", getIsGround());
